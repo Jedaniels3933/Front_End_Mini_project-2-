@@ -1,0 +1,90 @@
+nav{
+    background-color: #5ef177;
+    font-style: italic;
+    overflow: hidden;
+    padding-left: 10px;
+    padding-right: 20px;
+    position: flex;
+    font-size: 22px;
+    color: #181717;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    width: 100%;
+    height: 100%;
+
+}
+h1 {
+    text-shadow: 2px 2px 5px red;
+  }
+
+label{
+    color: #142af3;
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    position: flex;
+}
+h4{
+    color: #80f314;
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+}
+h3{
+    color: #021a1d;
+    font-size: 25px;
+    font-style: italic;
+    text-align: center;
+}
+h2{
+    color: #f31414;
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+}
+h3{
+    color: #f31414;
+    font-size: 25px;
+    font-style: italic;
+    text-align: center;
+}
+textarea{
+    font:100%;
+    width: 25%;
+    height: 80%;
+    position: flex;
+}
+figcaption{
+    color: #f31414;
+    font-size: 40px;
+    font-style: italic;
+    text-align: center;
+    width: 50%;
+    height: 75%;
+}
+figcaption:first-child{
+    color: #ff0000;
+    font-variant: small-caps;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  }
+
+h5{
+    position: flex;
+    font-size: 22px;
+    color: #181717;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    height: 100%;
+
+}
+label{
+    color: #142af3;
+    font-size: 35px;
+    font-style: italic;
+    text-align: center;
+    position: flex;
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(218, 32, 32), 0 0 5px rgb(224, 114, 10);
+    
+}

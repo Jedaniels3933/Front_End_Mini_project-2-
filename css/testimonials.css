@@ -1,0 +1,99 @@
+nav{
+    background-color: #5ef177;
+    font-style: italic;
+    overflow: hidden;
+    padding-left: 10px;
+    padding-right: 20px;
+    position: flex;
+    font-size: 22px;
+    color: #181717;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    width: 100%;
+    height: 100%;
+
+}
+
+aside{
+    background-color: #f31414;
+    font-style: italic;
+    overflow: hidden;
+    padding-left: 10px;
+    padding-right: 20px;
+    position: flex;
+    font-size: 22px;
+}
+
+blockquote{
+    background-color: #f31414;
+    font-style: italic;
+    overflow: hidden;
+    padding-left: 10px;
+    padding-right: 20px;
+    position: flex;
+    font-size: 22px;
+}
+
+blockquote:first-child{
+    background-color: #8ccf21;
+    font-family: Cosmic Sans MS;
+    overflow: hidden;
+    padding-left: 10px;
+    padding-right: 20px;
+    position: flex;
+    font-size: 22px;
+    color-scheme: dark;
+}
+
+h4{
+    background-color: #f31414;
+    font-style: italic;
+    overflow: hidden;
+    padding-left: 10px;
+    padding-right: 20px;
+    position: flex;
+    font-size: 22px;
+}
+h3{
+    background-color: #f31414;
+    font-style: italic;
+    overflow: hidden;
+    padding-left: 10px;
+    padding-right: 20px;
+    position: flex;
+    font-size: 22px;
+}
+
+article{
+    background-color: #f31414;
+    font-style: italic;
+    overflow: hidden;
+    padding-left: 10px;
+    padding-right: 20px;
+    position: flex;
+    font-size: 22px;
+}
+h1{
+    background-color: #148d28;
+    font-style: italic;
+    overflow: hidden;
+
+    padding-left: 10px;
+    padding-right: 20px;
+    position: flex;
+    font-size: 22px;
+}
+
+h4{
+    background-color: #0cb328;
+    font-style: italic;
+    overflow: hidden;
+    padding-left: 10px;
+    padding-right: 20px;
+    position: flex;
+    font-size: 22px;
+}
+
+h1 {
+    text-shadow: 2px 2px 5px red;
+  }
